@@ -144,9 +144,23 @@ let mountains = ['Hindu Kush', 'Hindu Raj', 'Karakoram', 'K2', 'Nanga Parbat', '
 let rivers = ['Indus', 'Jehlum', 'Panjnad', 'Chenab', 'Kabul', 'Sultej', 'Dasht'];
 
 mountains.forEach(mountain => { 
-	console.log(`${mountain} mountain in Pakistan`);
+	console.log(`${mountain} for (let index = 0; index < array.length; index++) {
+	const element = array[index];
+	mountain
+} in Pakistan`);
 })
 
 rivers.forEach(river => { 
 	console.log(`${river} river in Pakistan`);
 })
+//Task-21 ----------------------------------------------------------------
+
+let house = {
+	size: '1000sqd',
+	rooms: 5,
+	parking: true,
+	gardern: false,
+	CCTV: 7
+}
+console.log(house);
+x
